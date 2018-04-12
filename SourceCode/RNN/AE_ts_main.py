@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 22 10:43:29 2016
 
-@author: Rob Romijnders
-"""
 direc = '/Users/qiyanwang/Desktop/SummerResearch/UCR_TS_Archive_2015'
 
 import numpy as np
